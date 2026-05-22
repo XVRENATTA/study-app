@@ -25,5 +25,25 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-home.png",
+      "sizes": "1179x2556",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-study.png",
+      "sizes": "1179x2556",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-practice.png",
+      "sizes": "1179x2556",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
   ]
 }

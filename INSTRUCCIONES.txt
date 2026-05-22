@@ -1,0 +1,6 @@
+
+1. Sube TODOS estos archivos a tu repositorio GitHub.
+2. Agrega el contenido de HEAD_SNIPPET.txt dentro del <head> de index.html
+3. Espera 1 minuto.
+4. Recarga PWABuilder.
+5. Ya podrás empaquetar la app 😮‍💨🔥
