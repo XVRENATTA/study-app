@@ -1,12 +1,19 @@
-
 {
   "name": "Study App Neon",
   "short_name": "StudyApp",
+  "description": "Plataforma interactiva para practicar exámenes de admisión a preparatoria.",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#03050d",
+  "background_color": "#030712",
   "theme_color": "#00d4ff",
   "orientation": "portrait",
+  "lang": "es-MX",
+  "id": "/",
+  "categories": [
+    "education",
+    "productivity",
+    "learning"
+  ],
   "icons": [
     {
       "src": "icon-192.png",
